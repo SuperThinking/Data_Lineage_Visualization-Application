@@ -5,7 +5,7 @@ This tool is created by <b>Vishal Dhawan</b> (me) in ReactJS.
 
 ## How does it work?
 
-### Suppose we have the following lineage data (csv format) :
+### * Suppose we have the following lineage data (csv format) :
 
 ![alt text](https://github.com/SuperThinking/Data_Lineage_Visualization-Application/blob/master/screenshots/im9.png)
 
@@ -13,27 +13,27 @@ Where data-flow is from \[from1, from2, from3, from4, from5] -> \[to1, to2, to3,
 For example, the data flow from \[A, B, C, D, E] to {\[AA, BB, CC, DD, EE], \[L, M, N, O, P], ..., \[I, D, K, F, E]} and now from, say, \[I, D, K, F, E] the data flows to \[EE, TT, UU, II, E].
 
 
-### The basic UI
+### * The basic UI
 
 ![alt text](https://github.com/SuperThinking/Data_Lineage_Visualization-Application/blob/master/screenshots/im1.png)
 
 
-### Uploading the data
+### * Uploading the data
 
 ![alt text](https://github.com/SuperThinking/Data_Lineage_Visualization-Application/blob/master/screenshots/im2.png)
 
 
-### Upload Complete
+### * Upload Complete
 
 ![alt text](https://github.com/SuperThinking/Data_Lineage_Visualization-Application/blob/master/screenshots/im3.png)
 
 
-### Filling the fields (info about the root node whose lineage has to be visualized)
+### * Filling the fields (info about the root node whose lineage has to be visualized)
 
 ![alt text](https://github.com/SuperThinking/Data_Lineage_Visualization-Application/blob/master/screenshots/im4.png)
 
 
-### The root node
+### * The root node
 
 ![alt text](https://github.com/SuperThinking/Data_Lineage_Visualization-Application/blob/master/screenshots/im5.png)
 
@@ -41,12 +41,12 @@ For example, the data flow from \[A, B, C, D, E] to {\[AA, BB, CC, DD, EE], \[L,
 (Show More : Shows the next n hops, Show All : Shows all hops at once)
 
 
-### All nodes
+### * All nodes
 
 ![alt text](https://github.com/SuperThinking/Data_Lineage_Visualization-Application/blob/master/screenshots/im7.png)
 
 
-### On clicking a node, all its connections changes color
+### * On clicking a node, all its connections changes color
 
 ![alt text](https://github.com/SuperThinking/Data_Lineage_Visualization-Application/blob/master/screenshots/im8.png)
 
