@@ -1,6 +1,6 @@
 # Data Lineaege Visualization Application
 
-This tool is created by <b>Vishal Dhawan</b> (me) in ReactJS.
+This tool is created using ReactJS.
 
 
 ## How does it work?
